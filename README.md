@@ -7,3 +7,5 @@ Creatlist.py -- capture market data though gdax api, Circumvent GDAX API limit a
 
 Trade.py --- Trade though gdax api and return the actual service fee
 
+Unfortunely, I can not upload my trading algorithm at this time. 
+Feel free to contact me at jaysun1990@gmail.com
