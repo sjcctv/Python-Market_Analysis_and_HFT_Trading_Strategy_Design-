@@ -31,5 +31,18 @@ B,自动交易
 利用Python 的Gdax 开源工具包， 我做了一个python的module， 输入指定日期后，可以通过gadx api 抓取从指定日期时间段内所有秒级市场数据， 包括time，low，high，open，close，volume. 这个抓取过程全程自动，遇上断网，数据源缺失等情况，程序也能自动处理。
 
 
+Find patterns
+A method used to tell a story
+A way to perceive and make sense of vast quantities of data
+A technique to facilitate a business decision
+A way to not only answer questions but to reveal them as well
+
+
+What is the story?
+Is it in the right context?
+Who is your audience?
+These should be considered BEFORE starting your visualization
+
+
 Unfortunely, I can not upload my trading algorithm at this time. 
 Feel free to contact me at jaysun1990@gmail.com
